@@ -1,0 +1,6 @@
+{
+    "core": "WordPress/WordPress#5.7",
+    "themes": [
+        "./"
+    ]
+}
